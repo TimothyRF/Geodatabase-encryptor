@@ -8,3 +8,5 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>,
 )
+
+// use 'npm run dev' to run react app and ctrl + c to stop app locally
